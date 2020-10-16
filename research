@@ -3,6 +3,8 @@
 1.	Lighting
   https://developer.roblox.com/en-us/api-reference/class/Lighting
   
+  ※참고 : https://devforum.roblox.com/t/how-to-get-professional-lighting-for-beginners/625593
+  
   Lighting  - Technology   => ShadowMap 설정을 해야 효과적
 
 
@@ -19,15 +21,27 @@ https://developer.roblox.com/en-us/api-reference/property/Lighting/Brightness
 ClockTime => 조명 애니메이션 (낮 <-> 밤)
 https://developer.roblox.com/en-us/api-reference/property/Lighting/ClockTime
 
+FogColor => 안개 색상 변경
+https://developer.roblox.com/en-us/api-reference/property/Lighting/FogColor
+
+FogStart & FogEnd => 안개 범위 (FogStart : 15, FogEnd : 50 테스트)
+https://developer.roblox.com/en-us/api-reference/property/Lighting/FogStart
+https://developer.roblox.com/en-us/api-reference/property/Lighting/FogEnd
 
 
-OutdoorAmbient
-https://developer.roblox.com/en-us/api-reference/property/Lighting/OutdoorAmbient
-ColorShift_Bottom
-ColorShift_Top
+
+
+3.Pathfinding
+https://developer.roblox.com/en-us/api-reference/class/Path
+https://developer.roblox.com/en-us/articles/Pathfinding
+
+4.Physics
+5.PostProcessing
+
+
+그 외
+Custom Skybox, Mesh
 
 
 
-vii.	안개
-1.	농도
 
