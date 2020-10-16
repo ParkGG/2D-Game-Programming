@@ -1,0 +1,33 @@
+---2020.10.16
+
+1.	Lighting
+  https://developer.roblox.com/en-us/api-reference/class/Lighting
+  
+  Lighting  - Technology   => ShadowMap 설정을 해야 효과적
+
+
+
+GetSunDirection() => 태양 방향 변경
+https://developer.roblox.com/en-us/api-reference/function/Lighting/GetSunDirection
+
+Ambient => 조명 색상 변경
+https://developer.roblox.com/en-us/api-reference/property/Lighting/Ambient
+
+Brightness => 조명 농도 변경
+https://developer.roblox.com/en-us/api-reference/property/Lighting/Brightness
+
+ClockTime => 조명 애니메이션 (낮 <-> 밤)
+https://developer.roblox.com/en-us/api-reference/property/Lighting/ClockTime
+
+
+
+OutdoorAmbient
+https://developer.roblox.com/en-us/api-reference/property/Lighting/OutdoorAmbient
+ColorShift_Bottom
+ColorShift_Top
+
+
+
+vii.	안개
+1.	농도
+
